@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">PhunJoan Spaces</string>
+
+    <!-- Config -->
+    <string name="app_id">2272</string>
+    <string name="access_key">be90a8fb9c29bca86a5285aea15b51793a2df383</string>
+    <string name="signature_key">303030bbf5b74c7c997f7aa0f3ca20d576e5f774</string>
+
+    <!-- Map key -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBmMwujRYJ0mv6qH_ORd2gF4Sp7-ZldGzk
+    </string>
+
+    <!-- Building -->
+    <string name="building_not_loaded">Building not loaded.</string>
+
+    <!-- Navigation -->
+    <string name="navigation">Navigation</string>
+    <string name="no_route">Couldn\'t find a route matching your search.</string>
+    <string name="turn_left">Turn Left</string>
+    <string name="turn_right">Turn Right</string>
+    <string name="bear_left">Bear Left</string>
+    <string name="bear_right">Bear Right</string>
+    <string name="continue_straight">Continue Straight for</string>
+    <string name="continue_straight_distance">Continue Straight for %s feet</string>
+    <string name="unknown">Unknown</string>
+    <string name="floor_change_message_format">Take the %s %s %d</string>
+    <string name="up_to_level">up to level</string>
+    <string name="down_to_level">down to level</string>
+    <string name="to">to</string>
+    <string name="next_maneuver">Next: </string>
+    <string name="to_arrive"> to arrive at %1$s</string>
+    <string name="current_location">Current Location</string>
+    <string name="custom_location_title">Custom Location</string>
+    <string name="accessible_route">Accessible Route</string>
+    <string name="pin_drop_error">Can\'t drop pin outside the building bounds</string>
+    <string name="elevator">elevator</string>
+    <string name="stairs">stairs</string>
+    <string name="down">down</string>
+    <string name="start_query_hint">Enter Start location</string>
+    <string name="end_query_hint">Enter Destination</string>
+    <string name="walk_straight_distance">Walk %s feet towards %s </string>
+    <string name="after">after</string>
+    <string name="at">at</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="direction">direction</string>
+    <string name="next_direction">next direction</string>
+    <string name="you_have_arrived"> You have arrived at %1$s</string>
+
+    <string name="navigate_to_hack_area"> Navigate To Hacking Area</string>
+    <string name="cancel"> Camcel</string>
+
+
+</resources>

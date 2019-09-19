@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="12dp"
+        android:text="You have arrived at reception. Please Pick up your badge and proceed to Hacking Area"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btn_driving_directions"
+        style="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/title"
+        android:layout_marginEnd="24dp"
+        android:layout_marginTop="38dp"
+        android:text="Navigate to Hacking Area"
+        android:textColor="@color/colorPrimary" />
+
+
+</RelativeLayout>
